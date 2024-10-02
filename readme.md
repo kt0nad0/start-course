@@ -37,4 +37,5 @@ git remote add origin https://github.com/<Имя пользователя>/<На
 ```
 - Перейдем в "Source control" в меню слева
 <img src="./assets/publish.png" />
-- Нажимаем на "Publish Branch", после чего Visual Studio Code предложит авторизоваться:
+- Нажимаем на "Publish Branch", после чего Visual Studio Code предложит авторизоваться
+- Заполните ваши авторизационные данные либо внутри окна Visual Studio Code, либо в открывшемся браузере.
