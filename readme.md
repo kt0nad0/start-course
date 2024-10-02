@@ -35,3 +35,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/<Имя пользователя>/<Название репозитория>.git
 ```
+- Перейдем в "Source control" в меню слева
+<img src="./assets/publish.png" />
+- Нажимаем на "Publish Branch", после чего Visual Studio Code предложит авторизоваться:
